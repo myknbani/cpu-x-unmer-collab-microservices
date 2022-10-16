@@ -1,0 +1,11 @@
+h1 + p {
+  opacity: 1 !important;
+}
+
+ul > li > ul {
+  list-style-type: square !important;
+}
+
+ul > li > ul > li > ul {
+  list-style-type: disc !important;
+}
