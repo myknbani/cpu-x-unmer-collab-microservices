@@ -2,7 +2,7 @@
   "name": "cpu-x-unmer-collab-microservices",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /cpu-x-unmer-collab-microservices",
     "dev": "slidev --open",
     "export": "slidev export"
   },
