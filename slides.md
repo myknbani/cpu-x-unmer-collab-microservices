@@ -31,7 +31,7 @@ introImage: https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x
 ##### Batch 3: Session 5
 
 <div id="logos">
-  <img alt="cpu" src="cpu.png" /> <img alt="unmer" src="unmer.png" />
+  <img alt="cpu" src="/cpu.png" /> <img alt="unmer" src="/unmer.png" />
 </div>
 
 <style>

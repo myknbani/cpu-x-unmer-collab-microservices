@@ -6,6 +6,6 @@ layout: center
 # 
 <img
   alt="undergrads"
-  src="fresh-grad.png"
+  src="/fresh-grad.png"
   style="height: 400px"
 />
