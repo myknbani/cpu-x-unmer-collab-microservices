@@ -94,3 +94,12 @@ src: ./patterns/shared-db.md
 ---
 src: ./patterns/api-composition.md
 ---
+---
+src: ./patterns/workshop.md
+---
+---
+src: ./patterns/antipattern.md
+---
+---
+src: ./patterns/outro.md
+---

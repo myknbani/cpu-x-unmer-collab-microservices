@@ -14,5 +14,6 @@ gradientColors: ['#8EC5FC', '#E0C3FC']
   * API Composition
 - Hands-on workshop
 - Microservice architecture antipatterns
+  * My pick: _"trying to fly before you can walk"_
 - Parting advice
 - Q & A

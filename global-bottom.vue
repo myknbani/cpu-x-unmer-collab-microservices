@@ -1,6 +1,6 @@
 <template>
   <footer
-    v-if="$slidev.nav.currentPage <= $slidev.nav.total"
+    v-if="$slidev.nav.currentPage < $slidev.nav.total"
     class="absolute bottom-0 p-4 mt-auto flex justify-between items-center w-full text-primary dark:text-white z-10"
   >
     <div 
