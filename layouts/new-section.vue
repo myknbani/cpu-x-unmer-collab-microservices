@@ -13,17 +13,8 @@
 
 <script setup lang="ts">
 import { defineProps, defineComponent, computed } from 'vue'
-import { resolveAssetUrl } from '@slidev/client/layoutHelper'
-import Default from './default.vue'
-import SectionIllustration from '/section-illustration.svg'
-const components = defineComponent({ Default })
-const props = defineProps({
-  sectionImage: {
-    type: String,
-    default: SectionIllustration
-  },
-})
-const imageSrc = computed(() => resolveAssetUrl(props.sectionImage))
+import Default from 'slidev-theme-unicorn/layouts/default.vue'
+const imageSrc = "/section-illustration.94286f15.svg"
 </script>
 
 <style>
