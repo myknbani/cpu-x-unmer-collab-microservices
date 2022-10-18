@@ -61,6 +61,9 @@ src: ./preface/agenda.md
 src: ./preface/monolithic.md
 ---
 ---
+src: ./preface/microservice.md
+---
+---
 src: ./preface/what.md
 ---
 ---
@@ -81,4 +84,13 @@ src: ./patterns/new-section.md
 ---
 ---
 src: ./patterns/decompose.md
+---
+---
+src: ./patterns/db-per-service.md
+---
+---
+src: ./patterns/shared-db.md
+---
+---
+src: ./patterns/api-composition.md
 ---

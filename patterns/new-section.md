@@ -15,8 +15,8 @@ in software design.
 
 As a corollary:
 
-- Architecture is part of the SWEBOK Software Design KA.
 - _Architectural patterns_
+- Microservice Patterns
 
 <style>
   p {
