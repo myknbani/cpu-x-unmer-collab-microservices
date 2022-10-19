@@ -1,5 +1,6 @@
 ---
-layout: new-section
+layout: image-right
+image: https://microservices.io/i/Microservices-Patterns-Cover-published.png
 ---
 
 # Patterns
