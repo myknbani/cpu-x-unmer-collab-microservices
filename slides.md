@@ -55,6 +55,9 @@ introImage: https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x
 src: ./preface/intro.md
 ---
 ---
+src: ./preface/expect.md
+---
+---
 src: ./preface/agenda.md
 ---
 ---
@@ -74,9 +77,6 @@ src: ./preface/adoption.md
 ---
 ---
 src: ./preface/undergrads.md
----
----
-src: ./preface/expect.md
 ---
 
 ---
